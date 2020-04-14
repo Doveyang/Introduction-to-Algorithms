@@ -35,7 +35,7 @@ def randomized_select(arr, p, r, i):
 
 def find_median(arr):
     if len(arr) % 2 != 0:
-        mid = randomized_select(arr, 0, len(arr) - 1, len(arr) // 2)
+        mid = randomized_select(arr, 0, len(arr) - 1, len(arr) // 2 + 1)
         return mid
     else:
         l = randomized_select(arr, 0, len(arr) - 1, len(arr) // 2)
