@@ -46,3 +46,4 @@ def find_median(arr):
 
 if __name__ == "__main__":
     print(find_median([13, 19, 9, 5, 12, 8, 7, 4, 21, 2, 6, 11]))
+    print(find_median([1, 2, 5, 9, 0]))
