@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a13352c4-4f8c-4bbe-a2ea-cc787a58baac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter Nine/Randomized_Select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter Seven/Randomized_Quick_Sort.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aUY1ApCB1izus8L7V3hCQoLrKT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Randomized_Select">
+    <configuration name="Quick_Sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Seven" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Seven/Quick_Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quick_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Six" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Six/Quick_Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Randomized_Quick_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Seven" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Seven/Randomized_Quick_Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Randomized_Select" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Nine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Nine/Randomized_Select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Randomized_Select" />
+        <item itemvalue="Python.Quick_Sort (1)" />
+        <item itemvalue="Python.Randomized_Quick_Sort" />
+        <item itemvalue="Python.Quick_Sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a13352c4-4f8c-4bbe-a2ea-cc787a58baac" name="Default Changelist" comment="" />
+      <created>1586791421711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586791421711</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update on April 14th">
+      <created>1586834533547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586834533547</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update on April 14th">
+      <created>1586835038488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586835038488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update on April 14th">
+      <created>1586837167160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586837167160</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update on April 14th">
+      <created>1586837439885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586837439885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update on April 14th">
+      <created>1586837657946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586837657946</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update on April 14th" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update on April 14th" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="887" y="253" key="CommitChangelistDialog2" timestamp="1586837657792">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state x="887" y="253" key="CommitChangelistDialog2/0.23.2560.1353@0.23.2560.1353" timestamp="1586837657792" />
+    <state width="2539" height="388" key="GridCell.Tab.0.bottom" timestamp="1586840389062">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="388" key="GridCell.Tab.0.bottom/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389062" />
+    <state width="2539" height="388" key="GridCell.Tab.0.center" timestamp="1586840389062">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="388" key="GridCell.Tab.0.center/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389062" />
+    <state width="2539" height="388" key="GridCell.Tab.0.left" timestamp="1586840389061">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="388" key="GridCell.Tab.0.left/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389061" />
+    <state width="2539" height="388" key="GridCell.Tab.0.right" timestamp="1586840389062">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="388" key="GridCell.Tab.0.right/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389062" />
+    <state width="2539" height="476" key="GridCell.Tab.1.bottom" timestamp="1586839526075">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="476" key="GridCell.Tab.1.bottom/0.23.2560.1353@0.23.2560.1353" timestamp="1586839526075" />
+    <state width="2539" height="476" key="GridCell.Tab.1.center" timestamp="1586839526075">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="476" key="GridCell.Tab.1.center/0.23.2560.1353@0.23.2560.1353" timestamp="1586839526075" />
+    <state width="2539" height="476" key="GridCell.Tab.1.left" timestamp="1586839526074">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="476" key="GridCell.Tab.1.left/0.23.2560.1353@0.23.2560.1353" timestamp="1586839526074" />
+    <state width="2539" height="476" key="GridCell.Tab.1.right" timestamp="1586839526075">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state width="2539" height="476" key="GridCell.Tab.1.right/0.23.2560.1353@0.23.2560.1353" timestamp="1586839526075" />
+    <state x="880" y="439" key="Vcs.Push.Dialog.v2" timestamp="1586837661054">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state x="880" y="439" key="Vcs.Push.Dialog.v2/0.23.2560.1353@0.23.2560.1353" timestamp="1586837661054" />
+    <state x="1083" y="620" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586834544534">
+      <screen x="0" y="23" width="2560" height="1353" />
+    </state>
+    <state x="1083" y="620" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1353@0.23.2560.1353" timestamp="1586834544534" />
+  </component>
+</project>
