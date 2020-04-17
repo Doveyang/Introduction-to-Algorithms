@@ -28,14 +28,28 @@ class Queue(object):
 
 
 if __name__ == "__main__":
-    q = Queue(3)
+    '''q = Queue(3)
     q.enqueue("5")
     q.enqueue("6")
     q.enqueue("9")
-    print(q.full())
+    # print(q.full())
     print(q.dequeue())
     q.enqueue("7")
     print(q.dequeue())
     print(q.dequeue())
     print(q.dequeue())
+    print(q.empty())'''
+
+    import queue
+
+    q = queue.Queue(3)
+    q.put("5")
+    q.put("6")
+    q.put("9")
+    print(q.full())
+    print(q.get())
+    q.put("7")
+    print(q.get())
+    print(q.get())
+    print(q.get())
     print(q.empty())
