@@ -7,7 +7,7 @@ class Queue(object):
 
     def enqueue(self, x):
         self._elements[self._tail] = x
-        if self._tail == self._elements.__len__():
+        if self._tail == self._elements.__len__() - 1:
             self._tail = 0
         else:
             self._tail += 1
@@ -15,18 +15,27 @@ class Queue(object):
 
     def dequeue(self):
         x = self._elements[self._head]
-        if self._head == self._elements.__len__():
+        if self._head == self._elements.__len__() - 1:
             self._head = 0
         else:
             self._head += 1
         return x
+
+    def empty(self):
+        if self._head == self._tail:
+            return True
+        return False
 
 
 if __name__ == "__main__":
     q = Queue(3)
     q.enqueue("5")
     q.enqueue("6")
+    q.enqueue("9")
+    print(q.full())
     print(q.dequeue())
     q.enqueue("7")
     print(q.dequeue())
     print(q.dequeue())
+    print(q.dequeue())
+    print(q.empty())
