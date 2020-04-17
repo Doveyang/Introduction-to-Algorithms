@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a13352c4-4f8c-4bbe-a2ea-cc787a58baac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter Ten/Stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter Ten/Queue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +35,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Stack">
+  <component name="RunManager" selected="Python.Queue">
+    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Ten" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Ten/Queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Quick_Sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Seven/Quick_Sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Quick_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Six" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Six/Quick_Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Queue" />
         <item itemvalue="Python.Stack" />
         <item itemvalue="Python.Randomized_Select" />
         <item itemvalue="Python.Quick_Sort (1)" />
         <item itemvalue="Python.Randomized_Quick_Sort" />
-        <item itemvalue="Python.Quick_Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586840426931</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update on April 15th">
+      <created>1586922327154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586922327154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -217,39 +222,41 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update on April 14th" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update on April 14th" />
+    <MESSAGE value="Update on April 15th" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update on April 15th" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="887" y="253" key="CommitChangelistDialog2" timestamp="1586840426748">
-      <screen x="0" y="23" width="2560" height="1353" />
+    <state x="887" y="252" key="CommitChangelistDialog2" timestamp="1586922326847">
+      <screen x="0" y="23" width="2560" height="1348" />
     </state>
+    <state x="887" y="252" key="CommitChangelistDialog2/0.23.2560.1348@0.23.2560.1348" timestamp="1586922326847" />
     <state x="887" y="253" key="CommitChangelistDialog2/0.23.2560.1353@0.23.2560.1353" timestamp="1586840426748" />
-    <state width="2539" height="386" key="GridCell.Tab.0.bottom" timestamp="1586864836772">
+    <state width="2539" height="386" key="GridCell.Tab.0.bottom" timestamp="1586925430268">
       <screen x="0" y="23" width="2560" height="1348" />
     </state>
     <state width="2541" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.837.1024.560@0.0.2560.1400" timestamp="1586848800312" />
-    <state width="2539" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1348@0.23.2560.1348" timestamp="1586864836772" />
+    <state width="2539" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1348@0.23.2560.1348" timestamp="1586925430268" />
     <state width="2539" height="388" key="GridCell.Tab.0.bottom/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389062" />
-    <state width="2539" height="386" key="GridCell.Tab.0.center" timestamp="1586864836772">
+    <state width="2539" height="386" key="GridCell.Tab.0.center" timestamp="1586925430267">
       <screen x="0" y="23" width="2560" height="1348" />
     </state>
     <state width="2541" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.837.1024.560@0.0.2560.1400" timestamp="1586848800312" />
-    <state width="2539" height="386" key="GridCell.Tab.0.center/0.23.2560.1348@0.23.2560.1348" timestamp="1586864836772" />
+    <state width="2539" height="386" key="GridCell.Tab.0.center/0.23.2560.1348@0.23.2560.1348" timestamp="1586925430267" />
     <state width="2539" height="388" key="GridCell.Tab.0.center/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389062" />
-    <state width="2539" height="386" key="GridCell.Tab.0.left" timestamp="1586864836771">
+    <state width="2539" height="386" key="GridCell.Tab.0.left" timestamp="1586925430266">
       <screen x="0" y="23" width="2560" height="1348" />
     </state>
     <state width="2541" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.837.1024.560@0.0.2560.1400" timestamp="1586848800311" />
-    <state width="2539" height="386" key="GridCell.Tab.0.left/0.23.2560.1348@0.23.2560.1348" timestamp="1586864836771" />
+    <state width="2539" height="386" key="GridCell.Tab.0.left/0.23.2560.1348@0.23.2560.1348" timestamp="1586925430266" />
     <state width="2539" height="388" key="GridCell.Tab.0.left/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389061" />
-    <state width="2539" height="386" key="GridCell.Tab.0.right" timestamp="1586864836772">
+    <state width="2539" height="386" key="GridCell.Tab.0.right" timestamp="1586925430267">
       <screen x="0" y="23" width="2560" height="1348" />
     </state>
     <state width="2541" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.837.1024.560@0.0.2560.1400" timestamp="1586848800312" />
-    <state width="2539" height="386" key="GridCell.Tab.0.right/0.23.2560.1348@0.23.2560.1348" timestamp="1586864836772" />
+    <state width="2539" height="386" key="GridCell.Tab.0.right/0.23.2560.1348@0.23.2560.1348" timestamp="1586925430267" />
     <state width="2539" height="388" key="GridCell.Tab.0.right/0.23.2560.1353@0.23.2560.1353" timestamp="1586840389062" />
     <state width="2539" height="476" key="GridCell.Tab.1.bottom" timestamp="1586839526075">
       <screen x="0" y="23" width="2560" height="1353" />
@@ -272,10 +279,11 @@
     </state>
     <state x="781" y="343" key="SettingsEditor/0.0.2560.1400/2560.837.1024.560@0.0.2560.1400" timestamp="1586848724889" />
     <state x="781" y="353" key="SettingsEditor/0.23.2560.1348@0.23.2560.1348" timestamp="1586864712080" />
-    <state x="880" y="430" key="Vcs.Push.Dialog.v2" timestamp="1586848733450">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="880" y="437" key="Vcs.Push.Dialog.v2" timestamp="1586922330346">
+      <screen x="0" y="23" width="2560" height="1348" />
     </state>
     <state x="880" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.837.1024.560@0.0.2560.1400" timestamp="1586848733450" />
+    <state x="880" y="437" key="Vcs.Push.Dialog.v2/0.23.2560.1348@0.23.2560.1348" timestamp="1586922330346" />
     <state x="880" y="439" key="Vcs.Push.Dialog.v2/0.23.2560.1353@0.23.2560.1353" timestamp="1586843717252" />
     <state x="1083" y="620" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586834544534">
       <screen x="0" y="23" width="2560" height="1353" />
