@@ -28,11 +28,11 @@ def memoized_cut_rod(p: list, n: int) -> float:
 
 def bottom_up_cut_rod(p: list, n: int) -> float:
     ref = {0: 0}
-    for i in range(1, n + 1):
+    for j in range(1, n + 1):
         q = float('-inf')
-        for j in range(1, i + 1):
-            q = max(q, p[j - 1] + ref[i - j])
-        ref[i] = q
+        for i in range(1, j + 1):
+            q = max(q, p[i - 1] + ref[j - i])
+        ref[j] = q
     return ref[n]
 
 
@@ -48,7 +48,7 @@ if __name__ == "__main__":
     time_start = time.time()
     memoized_cut_rod(P, N)
     time_end = time.time()
-    print("Memorized Cut Rod: {} ms.".format((time_end - time_start) * 1000))
+    print("Memoized Cut Rod: {} ms.".format((time_end - time_start) * 1000))
 
     time_start = time.time()
     bottom_up_cut_rod(P, N)
